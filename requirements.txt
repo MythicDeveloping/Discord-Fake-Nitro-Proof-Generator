@@ -1,0 +1,4 @@
+requests
+discord.py
+html2image
+traceback
